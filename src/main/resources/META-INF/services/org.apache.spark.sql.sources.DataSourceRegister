@@ -1,1 +1,2 @@
 com.fys.spark.streamingsink.FileSinkExtendProvider
+org.apache.spark.sql.execution.streaming.streamingsource.TextSocketSourceProvider
